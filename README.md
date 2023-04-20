@@ -10,7 +10,3 @@
 
 # How to use bot?
 ## To use bot, you need type translate and after that, select language, then type text which you need to translate
-
-
-
-## Bot was created by VideoDima
